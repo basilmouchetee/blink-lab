@@ -39,5 +39,5 @@ void loop() {
   delay(250);   
   Serial.println("LED state changed");
   Serial.println(x++);
-  delay(250);
+  
 }
